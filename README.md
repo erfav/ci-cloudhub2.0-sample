@@ -1,0 +1,1 @@
+# ci-cloudhub2.0-sample
