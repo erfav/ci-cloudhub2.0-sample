@@ -1,0 +1,5 @@
+https.port: "8081"
+
+api:
+  version: "${apiversion}"
+  id: "19170212"
